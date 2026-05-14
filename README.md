@@ -1,4 +1,4 @@
-# Portfolio — Atelodoros
+# Portfolio — Hytallodev
 
 Portfolio pessoal construído com Next.js 15, Tailwind CSS e shadcn/ui. Exibe automaticamente os repositórios públicos do GitHub.
 
